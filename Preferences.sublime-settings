@@ -1,0 +1,27 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
+	"copy_with_empty_selection": false,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"itg_sidebar_tree_large": true,
+	"itg_sidebar_tree_medium": true,
+	"itg_sidebar_tree_small": true,
+	"itg_sidebar_tree_xlarge": true,
+	"itg_sidebar_tree_xsmall": true,
+	"rules":
+	[
+		80
+	],
+	"shift_tab_unindent": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"spell_check": true,
+	"theme": "itg.flat.dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
+}
