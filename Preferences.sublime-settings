@@ -2,17 +2,23 @@
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
 	"copy_with_empty_selection": false,
+	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
 	"itg_sidebar_tree_large": true,
 	"itg_sidebar_tree_medium": true,
 	"itg_sidebar_tree_small": true,
 	"itg_sidebar_tree_xlarge": true,
 	"itg_sidebar_tree_xsmall": true,
+	"match_brackets_angle": true,
 	"rulers":
 	[
 		80
@@ -23,8 +29,6 @@
 	"spell_check": true,
 	"theme": "itg.flat.dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": false,
-	"highlight_line": true,
-	"indent_guide_options": ["draw_active"],
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
 }
