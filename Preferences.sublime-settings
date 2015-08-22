@@ -1,6 +1,9 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/itg.Monokai (SL).tmTheme",
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
 	"copy_with_empty_selection": false,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -19,6 +22,7 @@
 	"itg_sidebar_tree_xlarge": true,
 	"itg_sidebar_tree_xsmall": true,
 	"match_brackets_angle": true,
+	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
 		80
@@ -27,7 +31,7 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"spell_check": true,
-	"theme": "itg.flat.dark.sublime-theme",
+	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
