@@ -24,18 +24,18 @@ npm install -g jshint
 
 *You must have ruby installed*
 
-**Gutter Color**
 
-You must install ImageMagick.
 
-On OSX you can use Homebrew:
 
-```
-brew install ImageMagick
-```
 
-On Linux you can install with `apt-get`:
 
-```
-sudo apt-get install ImageMagick -y
-```
+
+
+
+
+
+
+
+
+
+
