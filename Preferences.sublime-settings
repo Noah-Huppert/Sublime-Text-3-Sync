@@ -16,11 +16,6 @@
 	[
 		"draw_active"
 	],
-	"itg_sidebar_tree_large": true,
-	"itg_sidebar_tree_medium": true,
-	"itg_sidebar_tree_small": true,
-	"itg_sidebar_tree_xlarge": true,
-	"itg_sidebar_tree_xsmall": true,
 	"match_brackets_angle": true,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
@@ -31,7 +26,7 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"spell_check": true,
-	"theme": "Seti.sublime-theme",
+	"theme": "Seti_orig.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
