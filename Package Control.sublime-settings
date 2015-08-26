@@ -6,6 +6,7 @@
 	[
 		"All Autocomplete",
 		"BracketHighlighter",
+		"CMake",
 		"EditorConfig",
 		"Emmet",
 		"GitGutter",
@@ -20,6 +21,7 @@
 		"SideBarEnhancements",
 		"Stylus",
 		"SublimeLinter",
+		"SublimeLinter-cpplint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-ruby",
 		"Theme - itg.flat"
